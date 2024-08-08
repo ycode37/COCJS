@@ -13,6 +13,9 @@ let loggedIn = 1; // Zero ke alwa sab pr true batega ; empty string pr hii false
 let boolInt = Boolean(loggedIn);
 console.log(boolInt);
 
+let value = 7
+let negValue = -value;
+console.log(negValue);
 
 
 
